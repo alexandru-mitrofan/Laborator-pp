@@ -1,0 +1,1 @@
+("8.4" ta6osx ("51fb63e67d77c816fa606cb4ae73d0eac783b7f4" . "d35d7d661d2fedf451ea8b9337524d63154b3d5a") #"/Users/mitrofacultate/Desktop/lab pp/etapa 3/etapa-3/ppt.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
